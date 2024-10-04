@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\WEBAPI_Empty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E14D49F-3F1D-4E9E-89D5-8601D6568C36}|WEBAPI_Empty\\WEBAPI_Empty.csproj|c:\\users\\manish\\source\\repos\\webapi_empty\\webapi_empty\\controllers\\dataaccesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E14D49F-3F1D-4E9E-89D5-8601D6568C36}|WEBAPI_Empty\\WEBAPI_Empty.csproj|solutionrelative:webapi_empty\\controllers\\dataaccesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E14D49F-3F1D-4E9E-89D5-8601D6568C36}|WEBAPI_Empty\\WEBAPI_Empty.csproj|c:\\users\\manish\\source\\repos\\webapi_empty\\webapi_empty\\controllers\\getdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E14D49F-3F1D-4E9E-89D5-8601D6568C36}|WEBAPI_Empty\\WEBAPI_Empty.csproj|solutionrelative:webapi_empty\\controllers\\getdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E14D49F-3F1D-4E9E-89D5-8601D6568C36}|WEBAPI_Empty\\WEBAPI_Empty.csproj|c:\\users\\manish\\source\\repos\\webapi_empty\\webapi_empty\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E14D49F-3F1D-4E9E-89D5-8601D6568C36}|WEBAPI_Empty\\WEBAPI_Empty.csproj|solutionrelative:webapi_empty\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E14D49F-3F1D-4E9E-89D5-8601D6568C36}|WEBAPI_Empty\\WEBAPI_Empty.csproj|c:\\users\\manish\\source\\repos\\webapi_empty\\webapi_empty\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E14D49F-3F1D-4E9E-89D5-8601D6568C36}|WEBAPI_Empty\\WEBAPI_Empty.csproj|solutionrelative:webapi_empty\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\WEBAPI_Empty\\WEBAPI_Empty\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEBAPI_Empty\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\WEBAPI_Empty\\WEBAPI_Empty\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WEBAPI_Empty\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T05:17:09.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\WEBAPI_Empty\\WEBAPI_Empty\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WEBAPI_Empty\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\WEBAPI_Empty\\WEBAPI_Empty\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WEBAPI_Empty\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:07:44.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccessController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\WEBAPI_Empty\\WEBAPI_Empty\\Controllers\\DataAccessController.cs",
+              "RelativeDocumentMoniker": "WEBAPI_Empty\\Controllers\\DataAccessController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\WEBAPI_Empty\\WEBAPI_Empty\\Controllers\\DataAccessController.cs",
+              "RelativeToolTip": "WEBAPI_Empty\\Controllers\\DataAccessController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:41:07.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetDataController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\WEBAPI_Empty\\WEBAPI_Empty\\Controllers\\GetDataController.cs",
+              "RelativeDocumentMoniker": "WEBAPI_Empty\\Controllers\\GetDataController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\WEBAPI_Empty\\WEBAPI_Empty\\Controllers\\GetDataController.cs",
+              "RelativeToolTip": "WEBAPI_Empty\\Controllers\\GetDataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:32:04.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
